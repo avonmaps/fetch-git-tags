@@ -1,0 +1,4 @@
+name : fetch-git-tags
+version: 1.0.0
+display-name: Fetch tags from git
+type: deploy
